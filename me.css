@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=GFS+Neohellenic&display=swap');
+.me {
+  color:#72B01D;
+font-size:300%;
+text-align:center;}
+
+.social {
+  align-items:left;
+  justify-content:left;
+  font-size: 250%;
+} 
+
+.pfp {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;}
+
+
+
+.abme {
+  font-family:GFS+Neohellenic;
+  font-size:36px;
+  text-align: center;
+  color: #ffffff;
+}
+
+
+body {
+    background-color:#0d0a0b;
+}
+
