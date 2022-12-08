@@ -1,5 +1,5 @@
 body {
-    background-color: #141414;
+    background-color: #white;
     color: white;
     font-family: 'Play', sans-serif;
 }
@@ -42,7 +42,7 @@ body {
 }
 
 .content-text {
-    color: white;
+    color: black;
     font-size: 25px;
     margin-top: 30px;
     margin-left: 65px;
