@@ -1,6 +1,6 @@
 body {
-    background-color: #white;
-    color: white;
+    background-color: #black;
+    color: black;
     font-family: 'Play', sans-serif;
 }
 
@@ -42,7 +42,7 @@ body {
 }
 
 .content-text {
-    color: black;
+    color: white;
     font-size: 25px;
     margin-top: 30px;
     margin-left: 65px;
