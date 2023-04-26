@@ -1,0 +1,60 @@
+body {
+    background-color:#161616;
+    color:white;
+    font-family:'Source Sans Pro', sans-serif;
+}
+
+.menu ul {
+    display:flex;
+    list-style:none;
+    justify-content: flex-end;
+}
+
+
+.menu li {
+    width:100px;
+}
+
+a{
+    color:#00ff00;
+    text-decoration:none;
+}
+
+a:hover {
+ color:#023020;
+}
+
+a:active {
+    color:#1a221e;
+}
+
+.body-item{ 
+    font-size:40px;
+    margin-left:20px;
+}
+
+.title {
+    font-size:75px;
+    text-align: center;
+}
+
+
+.footer-item-description {
+    text-align:left;
+    font-size:20px;
+    margin-top:130px;
+}
+
+.footer-item{
+   font-size:40px;
+   margin-left:20px;
+   color:#00ff00;
+}
+
+.footer-item:hover {
+color:#023020;
+}
+
+.footer-item:active {
+    color:#1a221e ;
+}
