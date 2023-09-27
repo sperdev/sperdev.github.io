@@ -5,6 +5,8 @@ html {
 
 body{
     background-color:#131313;
+    margin:0;
+    padding:0;
 }
 
 .header {
@@ -32,10 +34,10 @@ body{
     align-items: center;
     justify-content: center;
     background-color:#333333;
+    border-radius:2rem;
     padding:0.5rem;
     text-decoration: none;
     transition:0.2s ease-out;
-    border-radius:2rem;
     
 }
 
@@ -53,3 +55,31 @@ background-color:#333333;
     transform: translateY(-4px)
 }
 
+.slider {
+height: 400px;
+width: 800px;
+background: url(pontos1.png);
+margin:100px auto;
+animation:slide 20s infinite;
+}
+
+@keyframes slide {
+25%{
+    background: url(pontos1.png);
+}
+
+
+50%{
+    background: url(pontos2.png);
+}
+
+
+75%{
+    background: url(pontos3.png);
+}
+
+
+100%{
+    background: url(pontos4.png);
+}
+}
